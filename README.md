@@ -14,10 +14,28 @@ java -jar clojure-1.6.0.jar
 ````
 
 Run a script
-
-
-
-Mess around Cheatsheet, fizzbuzz
 ````
+java -jar clojure-1.6.0.jar hello.clj
 ````
 
+Leiningen
+````
+http://leiningen.org/
+wget https://raw.github.com/technomancy/leiningen/stable/bin/lein
+````
+
+Mess around Cheatsheet, 4clojure, clojure koans, fizzbuzz, a real library I wrote
+````
+http://clojure.org/cheatsheet
+https://www.4clojure.com/
+http://clojurescriptkoans.com/
+http://rosettacode.org/wiki/FizzBuzz#Clojure
+https://github.com/talklibre/ircparse
+````
+
+Interesting work to look at
+````
+core.logic
+Datomic
+Om
+````
