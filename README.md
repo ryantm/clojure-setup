@@ -1,3 +1,9 @@
+Github README
+
+````
+https://github.com/ryantm/clojure-setup
+````
+
 You must have Java installed!
 ````
 java -version
